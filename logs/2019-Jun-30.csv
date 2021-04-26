@@ -1,0 +1,5 @@
+PROCESS NAME,PROCESS ID,PROCESS CREATION TIME,IDLE TIME THIS,TOTAL IDLE TIME,PROCESS LOG START TIME,PROCESS LOG END TIME
+pycharm64,3228,30 Jun 2019 12:20:32,EventLogger [C:\Users\suman\PycharmProjects\EventLogger] - ...\timelogger.py [EventLogger] - PyCharm (Administrator),6.546000000000098,30 Jun 2019 - 14:37:45,30 Jun 2019 - 14:37:53
+pycharm64,3228,30 Jun 2019 12:20:32,EventLogger [C:\Users\suman\PycharmProjects\EventLogger] - ...\idledetect.py [EventLogger] - PyCharm (Administrator),0,30 Jun 2019 - 14:37:53,30 Jun 2019 - 14:37:57
+pycharm64,3228,30 Jun 2019 12:20:32,EventLogger [C:\Users\suman\PycharmProjects\EventLogger] - ...\timelogger.py [EventLogger] - PyCharm (Administrator),0,30 Jun 2019 - 14:39:01,30 Jun 2019 - 14:39:05
+pycharm64,3228,30 Jun 2019 12:20:32,EventLogger [C:\Users\suman\PycharmProjects\EventLogger] - ...\platform_d.py [EventLogger] - PyCharm (Administrator),4.2340000000000355,30 Jun 2019 - 14:39:05,30 Jun 2019 - 14:39:11

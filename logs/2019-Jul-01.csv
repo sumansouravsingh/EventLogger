@@ -1,0 +1,16 @@
+PROCESS NAME,PROCESS ID,PROCESS CREATION TIME,ACTIVE WINDOW NAME,TOTAL IDLE TIME(seconds),PROCESS LOG START TIME,PROCESS LOG END TIME
+cmd,15904,01 Jul 2019 11:17:56,C:\WINDOWS\system32\cmd.exe,0,01 Jul 2019 - 11:17:56,01 Jul 2019 - 11:18:00
+pycharm64,13364,01 Jul 2019 10:38:02,EventLogger [C:\PyCharmProject\EventLogger] - ...\csvlogwrite.py [EventLogger] - PyCharm,0,01 Jul 2019 - 11:18:00,01 Jul 2019 - 11:18:03
+sublime_text,8916,01 Jul 2019 11:14:32,usermbx0/select?shards=localhost:20000/solr/usermb • - Sublime Text (UNREGISTERED),0,01 Jul 2019 - 11:18:03,01 Jul 2019 - 11:18:05
+pycharm64,13364,01 Jul 2019 10:38:02,EventLogger [C:\PyCharmProject\EventLogger] - ...\csvlogwrite.py [EventLogger] - PyCharm,0,01 Jul 2019 - 11:18:05,01 Jul 2019 - 11:18:07
+cmd,15904,01 Jul 2019 11:17:56,C:\WINDOWS\system32\cmd.exe,0,01 Jul 2019 - 11:18:07,01 Jul 2019 - 11:18:08
+cmd,16148,01 Jul 2019 11:22:54,C:\WINDOWS\system32\cmd.exe,0,01 Jul 2019 - 11:22:55,01 Jul 2019 - 11:22:57
+cmd,16148,01 Jul 2019 11:22:54,C:\WINDOWS\system32\cmd.exe,0,01 Jul 2019 - 11:23:36,01 Jul 2019 - 11:23:37
+pycharm64,10920,01 Jul 2019 11:22:37,EventLogger [C:\PyCharmProject\EventLogger] - ...\logger.py [EventLogger] - PyCharm,0,01 Jul 2019 - 11:23:37,01 Jul 2019 - 11:23:38
+ShellExperienceHost,10592,01 Jul 2019 11:22:19,Windows Shell Experience Host,0,01 Jul 2019 - 11:23:38,01 Jul 2019 - 11:23:38
+ShellExperienceHost,10592,01 Jul 2019 11:22:19,Jump List for JetBrains PyCharm Community Edition 2018.2.2,0,01 Jul 2019 - 11:23:38,01 Jul 2019 - 11:23:39
+pycharm64,10920,01 Jul 2019 11:22:37,EventLogger [C:\PyCharmProject\EventLogger] - ...\logger.py [EventLogger] - PyCharm,0,01 Jul 2019 - 11:23:39,01 Jul 2019 - 11:23:39
+pycharm64,10920,01 Jul 2019 11:22:37,PyCharm,0,01 Jul 2019 - 11:23:39,01 Jul 2019 - 11:23:39
+cmd,16148,01 Jul 2019 11:22:54,C:\WINDOWS\system32\cmd.exe,0,01 Jul 2019 - 11:23:39,01 Jul 2019 - 11:23:39
+explorer,9876,01 Jul 2019 11:22:18,Program Manager,0,01 Jul 2019 - 11:23:39,01 Jul 2019 - 11:23:47
+Teams,14664,01 Jul 2019 11:22:38,Chat | Microsoft Teams,0,01 Jul 2019 - 11:23:47,01 Jul 2019 - 11:23:48
